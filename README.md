@@ -48,5 +48,10 @@ National Day of Civic Hacking is a coordinated series of events happening across
 Also:  
 [Code for America](http://t.co/SdrDB6SXsQ) ([twitter](https://twitter.com/codeforamerica))
 
+Open Data Resources
+===================
+[Hartford Open Data portal](https://data.hartford.gov/)  
+[CT Open Data portal](https://data.ct.gov/)  
+[CT Transit real time data](http://www.cttransit.com/about/developers/realtimedata/)  
 
 Repository set up for 2015 National Day of Civic Hacking in Hartford, CT
