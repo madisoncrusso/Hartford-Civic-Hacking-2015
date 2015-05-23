@@ -44,8 +44,6 @@ Schedule for the Day
 
 **4:30pm-...** - Food/beers in Parkville
 
-We will start the day with a presentation by Chris Brechlin.
-
 National Day of Civic Hacking is a coordinated series of events happening across the country. Learn more about the movement here [hackforchange.org/about](http://www.hackforchange.org/about).  
 Also:  
 [Code for America](http://t.co/SdrDB6SXsQ) ([twitter](https://twitter.com/codeforamerica))
